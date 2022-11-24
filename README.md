@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pionog
+- 👀 I’m interested in finding solutions in a given task
+- 🌱 I’m currently learning how computers are working at all and how to code properly.
