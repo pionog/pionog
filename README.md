@@ -1,3 +1,3 @@
-- 👋 Hi welcome to my github profile I’m @pionog
-- 🖥️ My preferred programming languages are C++ and C#
-- 👨‍🎓 I study Computer Science at Gdańsk University of Technology (currently in 2nd year of study for a master degree)
+- 👋 Hi welcome to my github profile I am @pionog
+- 🖥️ My preferred programming languages are C++ and C# but recently I have mainly been using Python
+- 👨‍🎓 I study Computer Science at Gdańsk University of Technology (currently in 2nd year of study for a master degree). I am awaiting my master’s thesis defence
